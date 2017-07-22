@@ -1,0 +1,9 @@
+C:\Users\Family\Documents\COSC 3315\Chapter 4\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe.config
+C:\Users\Family\Documents\COSC 3315\Chapter 4\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe
+C:\Users\Family\Documents\COSC 3315\Chapter 4\Color Mixer\Color Mixer\bin\Debug\Color Mixer.pdb
+C:\Users\Family\Documents\COSC 3315\Chapter 4\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csprojResolveAssemblyReference.cache
+C:\Users\Family\Documents\COSC 3315\Chapter 4\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Form1.resources
+C:\Users\Family\Documents\COSC 3315\Chapter 4\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Properties.Resources.resources
+C:\Users\Family\Documents\COSC 3315\Chapter 4\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csproj.GenerateResource.Cache
+C:\Users\Family\Documents\COSC 3315\Chapter 4\Color Mixer\Color Mixer\obj\Debug\Color Mixer.exe
+C:\Users\Family\Documents\COSC 3315\Chapter 4\Color Mixer\Color Mixer\obj\Debug\Color Mixer.pdb
